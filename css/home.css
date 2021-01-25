@@ -37,4 +37,8 @@ body {
   .bd-placeholder-img-lg {
     font-size: 3.5rem;
   }
+  
+  .col {
+    padding-top: 5px;
+  }
 }
