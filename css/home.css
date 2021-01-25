@@ -14,10 +14,8 @@
   font-family: 'Oswald', monospace;
 }
 
-h1 {
-  padding: 10px 50px;
-  color: white;
-  font-family: 'Source Code Pro', monospace;
+.container {
+  padding-top: 15%;
 }
 
 body {
