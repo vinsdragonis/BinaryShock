@@ -1,1 +1,40 @@
+.someImg {
+  width: 100%;
+}
 
+.mainDiv {
+  background: #303030;
+}
+
+.Bio {
+  width: 100%;
+  height: 100%;
+  background: #303030;
+  color: white;
+  font-family: 'Oswald', monospace;
+}
+
+h1 {
+  padding: 10px 50px;
+  color: white;
+  font-family: 'Source Code Pro', monospace;
+}
+
+body {
+  background: #191919;
+}
+
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
